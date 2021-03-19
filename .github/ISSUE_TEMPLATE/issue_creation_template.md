@@ -1,12 +1,3 @@
----
-name: Issue_creation_template
-about: This is a common template to create issues
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ***Overview***
 A clear and concise description of what the bug is.
 
