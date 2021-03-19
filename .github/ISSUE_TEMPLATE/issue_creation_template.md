@@ -7,38 +7,38 @@ assignees: ''
 
 ---
 
-**Overview**
+***Overview***
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+***To Reproduce***
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**As is**
+***As is***
 
-**To be**
+***To be***
 
-**Checklist**
+***Checklist***
 
-**Screenshots**
+***Screenshots***
 If applicable, add screenshots/recordings to help explain your problem.
 
-**Environment**
+***Environment***
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Staging/Production
  - Platform [Web/Mobile/Tab]
 
-**Severity**
+***Severity***
 Add how severe it is [High/Med/Low]
-High: [Data loss, functionality break, data integrity, Issue from Prod]
-Med: [Any issue which is not so critical]
-Low: [Any cosmetic/UI issues]
+- High: [Data loss, functionality break, data integrity, Issue from Prod]
+- Med: [Any issue which is not so critical]
+- Low: [Any cosmetic/UI issues]
 
-**Occurrence**
+***Occurrence***
 - Always reproducible
 - Sometimes reproducible
 - Intermittent
