@@ -33,3 +33,7 @@ Add how severe it is [High/Med/Low]
 - Always reproducible
 - Sometimes reproducible
 - Intermittent
+
+***Scheduled*** 
+
+***Deadline***
